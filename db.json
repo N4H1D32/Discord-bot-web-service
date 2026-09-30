@@ -1,0 +1,30 @@
+{
+  "carLocation": "Qazax",
+  "fuel": 100,
+  "cleanliness": 87,
+  "totalKm": 1090.2,
+  "brokenParts": [],
+  "users": {
+    "1130862443812376647": {
+      "money": 1995.39,
+      "debt": 0,
+      "debtDueDate": null,
+      "bankName": null,
+      "interestRate": null
+    },
+    "1392463041102221365": {
+      "money": 1912.15,
+      "debt": 1120,
+      "debtDueDate": 1790098937859,
+      "bankName": "ABB (Azərbaycan Beynəlxalq Bankı)",
+      "interestRate": 12
+    },
+    "1515642234119393330": {
+      "money": 1200,
+      "debt": 0,
+      "debtDueDate": null,
+      "bankName": null,
+      "interestRate": null
+    }
+  }
+}
